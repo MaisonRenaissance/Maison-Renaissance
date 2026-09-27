@@ -29,3 +29,5 @@ Instagram : @larenaissance.js
 Zone : 30 km autour de Sombernon
 
 - Ajustement du logo dans la photo d'accueil : plus petit, entièrement visible, et légèrement décalé vers la gauche.
+
+- Ajustement V5 : logo de la photo d'accueil rendu plus petit, entièrement visible, mieux aligné à gauche et avec un rendu plus professionnel.
