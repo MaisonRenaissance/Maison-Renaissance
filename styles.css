@@ -230,3 +230,52 @@ footer{border-top:1px solid var(--line);padding:32px 0 42px}
   .commune-actions{flex-direction:column}
   .commune-actions a{justify-content:center}
 }
+
+
+/* V8 — Google Maps + SEO local */
+.maps-check{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  margin-top:16px;
+  padding:11px 15px;
+  border:1px solid rgba(255,255,255,.55);
+  color:#fff;
+  font-weight:700;
+  font-size:.9rem;
+  transition:background .2s ease,color .2s ease,border-color .2s ease;
+}
+.maps-check:hover{
+  background:#fff;
+  color:var(--ink);
+  border-color:#fff;
+}
+.seo-topics{padding:88px 0}
+.seo-topics-head{max-width:760px}
+.seo-topics-head h2{
+  font-family:"Cormorant Garamond",serif;
+  font-size:clamp(2.5rem,4.8vw,4.7rem);
+  line-height:1;
+  margin:.4rem 0 0;
+}
+.seo-topics-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:18px;
+  margin-top:38px;
+}
+.seo-topics-grid article{
+  border-top:1px solid var(--line);
+  padding-top:20px;
+}
+.seo-topics-grid h3{
+  font-family:"Cormorant Garamond",serif;
+  font-size:1.8rem;
+  line-height:1.1;
+  margin:0 0 10px;
+}
+.seo-topics-grid p,.seo-keyline{color:var(--muted)}
+.seo-keyline{margin-top:26px;font-size:.95rem}
+@media(max-width:900px){
+  .seo-topics-grid{grid-template-columns:1fr}
+}
