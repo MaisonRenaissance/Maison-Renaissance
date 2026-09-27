@@ -279,3 +279,19 @@ footer{border-top:1px solid var(--line);padding:32px 0 42px}
 @media(max-width:900px){
   .seo-topics-grid{grid-template-columns:1fr}
 }
+
+
+/* V9 — titre d'accueil optimisé pour le référencement local */
+.hero-subtitle{
+  display:block;
+  font-size:.62em;
+  line-height:1.05;
+  margin-top:.12em;
+}
+.hero-signature{
+  margin:.35rem 0 0;
+  font-family:"Cormorant Garamond",serif;
+  font-size:clamp(1.45rem,2.7vw,2.35rem);
+  line-height:1.1;
+  color:rgba(255,255,255,.92);
+}
