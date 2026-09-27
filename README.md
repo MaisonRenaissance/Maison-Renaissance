@@ -27,3 +27,5 @@ Téléphone : 07 82 48 60 92
 E-mail : larenaissance.jls@gmail.com
 Instagram : @larenaissance.js
 Zone : 30 km autour de Sombernon
+
+- Ajustement du logo dans la photo d'accueil : plus petit, entièrement visible, et légèrement décalé vers la gauche.
