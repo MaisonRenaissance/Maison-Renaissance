@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://maisonrenaissance.github.io/Maison-Renaissance/sitemap.xml
+Sitemap: https://maisonrenaissance.github.io/Maison-Renaissance/sitemap.txt
