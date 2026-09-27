@@ -24,7 +24,7 @@ Remplacez les anciens fichiers par ceux de cette V3 :
 
 ## Contact
 Téléphone : 07 82 48 60 92
-E-mail : larenaissance.jls@gmail.com
+E-mail : larenaissance.js@gmail.com
 Instagram : @larenaissance.js
 Zone : 30 km autour de Sombernon
 
